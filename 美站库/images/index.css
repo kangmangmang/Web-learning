@@ -1,0 +1,122 @@
+
+
+#main {
+	background:url(main_top.png) repeat-x;
+}
+#main1 {
+	background:url(main_bottom.png) 0px bottom repeat-x;
+}
+#footer {
+	height: 100px;
+	background: url(footer.png) repeat-x;
+}
+
+
+
+#wrap {
+	width: 920px;
+	height: 850px;
+	margin: 0 auto;
+}
+#wrap #leftbody {
+	width: 620px;
+	height: 850px;
+	float: left;
+}
+#wrap #rightbody {
+	width: 240px;
+	height: 850px;
+	float: right;
+}
+#wrap #leftbody .leftdiv1 h1 {
+	color: #000000;
+	font-size: 24px;
+	font-weight: normal;
+	margin: 25px 0 0 0;
+}
+#wrap #leftbody .leftdiv1 p {
+	color: #555555;
+	margin: 25px 0 0 0;
+}
+#wrap #leftbody .leftdiv1 p a {
+	color:red;z
+}
+
+#wrap #leftbody .leftdiv2 h2 {
+	color: #000000;
+	font-size: 24px;
+	font-weight: normal;
+	margin: 25px 0 20px 0;
+}
+#wrap #leftbody .leftdiv2 ul li {
+	width: 270px;
+	height: 170px;
+	background: #F1F2EA;
+	border: 1px solid #D5D7CA;
+	padding: 6px;
+	overflow: hidden;
+	float: left;
+	margin: 0px 25px 25px 0;
+}
+#wrap #leftbody .leftdiv2 ul li p {
+	font-size: 16px;
+	color: black;
+	font-weight: bold;
+}
+#wrap #leftbody .leftdiv3 {
+	clear: both;
+}
+#wrap #leftbody .leftdiv3 a {
+	background: url(right_1.png) ;
+	display: block;
+	width: 103px;
+	height: 27px;
+	text-align: center;
+	line-height: 27px;
+	color: white;
+	text-decoration: none;
+}
+#wrap #leftbody .leftdiv3 a:hover {
+background: url(right_2.png) ;
+}
+
+
+#leftbody p.p0 {
+	color: black;
+	font-size: 18px;
+	margin: 30px 0 30px 0;
+}
+#leftbody form label {
+	display: block;
+	font-size: 14px;
+	color: #555555;
+	margin: 15px 0 3px 0;
+}
+#leftbody form input {
+	width: 250px;
+	height: 20px;
+}
+#leftbody form input.lasttxt {
+	width: 200px;
+	height: 50px;
+}
+
+#leftbody form input.btm_sub {
+	background: url(right_1.png) ;
+	display: block;
+	width: 103px;
+	height: 27px;
+	text-align: center;
+	line-height: 27px;
+	color: white;
+	text-decoration: none;
+	border: none;
+	cursor: pointer;
+	margin-top: 20px 0 0 0;
+	float: left;
+	margin-top: 10px;
+}
+#leftbody form input.btm2 {
+	 margin-left: 163px;
+}
+
